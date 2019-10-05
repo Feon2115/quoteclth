@@ -5,7 +5,7 @@ body
 	font-family: Arial;
 	position:relative;
 	top:0px;
-
+    	overflow:auto;
 }
 
 .wrapper
@@ -17,59 +17,19 @@ body
 .header
 {
 	width:100%;
-	font-size: 75px;
+	font-size: 120px;
 	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
-
+    margin-top: 70px;
 
 
 
 }
 
-.nav
-{
-
-	padding: 40px 0;
-	background-color: black;
-	text-align: center;
-	text-decoration: none;
-
-
-}
-
-
-
-
-a
-{
-		text-decoration: none;
-		color:white;
-}
-a:hover{
-	border-bottom: 1px solid white;
-
-
-}
-
-
-
-img{
-    height:500px;
-    width:350px;
+#mid{
     
-    
-}
-h1{
+    font-size: 20px;
     text-align: center;
-    font-size: 17px;
-}
-
-
-#contact{
-    
-    font-size: 10px;
-    text-align: center;
-    
+    margin-top: 90px;
+    font-style: italic;
     
 }
