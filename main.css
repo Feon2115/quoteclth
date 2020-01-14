@@ -12,7 +12,7 @@ img{
 
 body{
     background-color:black;
-    
+    overflow:hidden;
 }
 img:hover{
     width:75%;
