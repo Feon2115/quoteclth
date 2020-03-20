@@ -14,7 +14,7 @@ h2{
       
 }
 body{
-background: linear-gradient(267deg, #ffffff, #d52e2e, #32c344, #ca78c7, #4cc2d5);
+background: linear-gradient(267deg, #ffffff, #ee6e6e, #ca78c7, #4cc2d5, #d7db1c);
 background-size: 1000% 1000%;
 animation: gradient 30s ease infinite;
 }
